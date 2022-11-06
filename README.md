@@ -1,7 +1,4 @@
 # Python
+![Repositório](https://user-images.githubusercontent.com/112363816/200155146-ac7d04c0-6328-4e3e-bd8b-4e7a75123a77.png)
 Repositório criado para armazenar programas dos quais foram pensados.
-Primeiro programa colocado basicamente é um gerador de senha utilizando for para criação de quantidade de senhas e quantidades de caracteres.
-Nome: Password Generator
-
-
--- Uso de Random + String + imports variados 
+Criação de parte de programas são baseados em cursos que faço.
